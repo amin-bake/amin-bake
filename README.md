@@ -1,17 +1,23 @@
-<h1 align="center">Hi 👋, I'm Mohamed Ali M.</h1>
+<h1 align="center">Hi 👋, I'm Mohamed Ali Mohamed</h1>
 <h3 align="center">A passionate full-stack developer from Kenya.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=amin-bake&label=Profile%20views&color=0e75b6&style=flat" alt="amin-bake" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=amin-bake&label=Profile%20views&color=0e75b6&style=flat" alt="amin-bake" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=amin-bake" alt="amin-bake" /></a> </p>
 
-- 🌱 I’m currently learning **Next.js, FASTAPIs, POSGRES, PRISMA, and Vercel.**
-
-- 💬 Ask me about **react and web frameworks**
-
-- 📫 How to reach me **amincali20@gmail.com**
-
-- ⚡ Fun fact **I thinkg I am really funny.**
+<div align="left"> 
+<p >
+🌱 I’m currently learning **Next.js, FASTAPIs, POSTGRES, PRISMA, and Vercel.**
+</p>
+<p >
+💬 Ask me about **react and web frameworks**
+</p>
+<p >
+📫 How to reach me **amincali20@gmail.com**
+</p>
+<p >
+⚡ Fun fact **I think I am hilarious.**
+</p>
+</div>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
